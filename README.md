@@ -24,6 +24,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-__starlord.__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/__starlord.__/)](https://www.instagram.com/__starlord.__/)
 [![Gmail Badge](https://img.shields.io/badge/-guptasanidhya6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guptasanidhya6@gmail.com)](mailto:guptasanidhya6@gmail.com)
 
+[![Sanidhya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guptasanidhya&bg_color=000000&color=ff42f6&line=ffffff&point=e23636&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
