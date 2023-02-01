@@ -3,7 +3,7 @@
 <h3 align="center">Breath and Live in ML and Cosmos</h3>
 <img align="right" alt="coding" height="300" width="300" src="https://img.freepik.com/premium-vector/tired-overworked-worker-business-character-lying-floor-near-office-desk-looking-movie-laptop-postpone-work-emotional-burnout-employee-laziness-working-place-cartoon-vector-illustration_1016-10670.jpg?w=740">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasanidhya&label=Profile%20views&color=0e75b6&style=flat" alt="guptasanidhya" /> </p>
+
 
 
 - 🌱 I’m currently learning **Machine learning and Space Science**
