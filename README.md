@@ -1,7 +1,8 @@
 ![MasterHead](https://techcrunch.com/wp-content/uploads/2017/04/neural_networks_fully_connected_layers_gumgum1.gif)
 <h1 align="center">Hi 👋, I'm Sanidhya Gupta</h1>
 <h3 align="center">Breath and Live in ML and Cosmos</h3>
-<img align="right" alt="coding" height="300" width="300" src="https://img.freepik.com/premium-vector/tired-overworked-worker-business-character-lying-floor-near-office-desk-looking-movie-laptop-postpone-work-emotional-burnout-employee-laziness-working-place-cartoon-vector-illustration_1016-10670.jpg?w=740">
+<img align="right" alt="coding" height="300" width="300" src="https://user-images.githubusercontent.com/55076349/216123740-d29c3ca0-94dd-4e06-a467-974398dfa944.png">
+
 
 
 
