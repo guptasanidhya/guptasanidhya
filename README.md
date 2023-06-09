@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **guptasanidhya6@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DwABHcLp6LoXGbWhr8TZYSsQXRt6QEkxwsdrGKDiHJA/edit?usp=sharing](https://docs.google.com/document/d/1DwABHcLp6LoXGbWhr8TZYSsQXRt6QEkxwsdrGKDiHJA/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b5Npyp6U4OqpEPQy3iunC8e7s-dLIvEl/view?usp=sharing](https://drive.google.com/file/d/1b5Npyp6U4OqpEPQy3iunC8e7s-dLIvEl/view?usp=sharing)
 
 - ⚡ Fun fact **In childhood, I used to think that WWE superstar Undertaker came from the dead to take revenge from his brother Kane.**
 
