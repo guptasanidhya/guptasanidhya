@@ -8,16 +8,18 @@
 
 
 - 🌱 I’m currently learning **Machine learning, Cloud Computing and Space Science**
-
-- 📝 I regularly write articles on [https://quizzicalguy.blogspot.com/](https://quizzicalguy.blogspot.com/)
+  
+- 🌱 I’m currently working on  **SpringBoot and Docker**
+  
+- 📝 I write crazy articles on [https://quizzicalguy.blogspot.com/](https://quizzicalguy.blogspot.com/)
 
 - 💬 Ask me about **Java, Python and Space**
 
 - 📫 How to reach me **guptasanidhya6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Qi6JTrx91t6-D5fh1DTkxoTeJTBmEt3g/view?usp=sharing](https://drive.google.com/file/d/1Qi6JTrx91t6-D5fh1DTkxoTeJTBmEt3g/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1d1k0PhVDwIwcY5A42Ri9rSvYFfL03qr2?usp=drive_link)
 
-- ⚡ Fun fact **In childhood, I used to think that WWE superstar Undertaker came from the dead to take revenge from his brother Kane.**
+- ⚡ Fun fact **In childhood, I used to think that WWE superstar Undertaker came from the dead to take revenge on his brother Kane.**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -39,6 +41,8 @@
 ### Language :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,6 +51,7 @@
 
 ### Libraries & Framework :
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
