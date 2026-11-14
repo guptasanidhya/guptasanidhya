@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning, Cloud Computing and Space Science**
   
-- 🌱 I’m currently working on  **SpringBoot and Docker**
+- 🌱 I’m currently working on  **Microservices and Distributed Systems**
   
 - 📝 I write crazy articles on [https://quizzicalguy.blogspot.com/](https://quizzicalguy.blogspot.com/)
 
