@@ -101,5 +101,13 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=guptasanidhya&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guptasanidhya&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=guptasanidhya&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F55076349%3Fu%3D23244f3f72b45a0d041b11f33353ffec81516f1f%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=guptasanidhya&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F55076349%3Fu%3D23244f3f72b45a0d041b11f33353ffec81516f1f%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Sanidhya Gupta contribution activity" />
+</picture>
+</p>
+
 
